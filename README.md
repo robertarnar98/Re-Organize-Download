@@ -10,7 +10,7 @@ Plan your Instagram grid on your Mac — drag, crop and arrange photos before yo
 
 1. Double-click **Re-Organize.dmg**.
 2. Drag **Re-Organize** onto the **Applications** folder.
-3. Open it. The first time, macOS says it can't verify the app — click **Done**, then go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
+3. Open it from Applications. That's it: Re-Organize is signed and approved by Apple, so it opens with no security warning.
 
 ## Updates
 
