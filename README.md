@@ -2,6 +2,10 @@
 
 Plan your Instagram grid on your Mac — drag, crop and arrange photos before you post. Nothing is ever posted or changed on Instagram.
 
+## Watch the 1-minute tour
+
+https://github.com/user-attachments/assets/64190d0d-f9fb-4256-b9a3-e613739765bd
+
 ## Download
 
 **[⬇︎ Download the newest version](https://github.com/robertarnar98/Re-Organize-Download/releases/latest)** — click **Re-Organize.dmg** under *Assets*.
